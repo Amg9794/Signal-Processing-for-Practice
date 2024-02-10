@@ -15,3 +15,9 @@ A5 - For a given image f(m, n), the sharpened imageg(m, n)is obtained as
 g(m, n) =f(m, n) +k[f(m, n)∗h(m, n)],
 
 whereh(m, n) is a high pass filter, such as the Laplacian filter.
+
+A6-  For each of given noisy images (except img167.bmp), find the optimal Gaussian filter ofsize 11×11 with standard deviation from the set{0.1,1,2,4,8}with the best
+
+(a)  mean squared error (MSE)
+
+(b)  structural similarity index (SSIM).
