@@ -21,3 +21,5 @@ A6-  For each of given noisy images (except img167.bmp), find the optimal Gaussi
 (a)  mean squared error (MSE)
 
 (b)  structural similarity index (SSIM).
+
+B) Find a bilateral filter to denoise the imagenoisybook.png corrupted by the Gaussian noiseand compare the results with a Gaussian filter that also does equally well visually.  
