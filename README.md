@@ -9,3 +9,9 @@ A2- Linear Convolution using Brute Force Method, Toeplitz Matrix Method, DFT and
 A3- 1D, 2D discrete cosine transform
 
 A4- Reconstruct signal using linear Prediction of order N
+
+A5 - For a given image f(m, n), the sharpened imageg(m, n)is obtained as 
+
+g(m, n) =f(m, n) +k[f(m, n)∗h(m, n)],
+
+whereh(m, n) is a high pass filter, such as the Laplacian filter.
